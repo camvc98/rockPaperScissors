@@ -154,3 +154,18 @@ padding: 0;
     flex-direction: column;
 
 }
+
+#playerText{
+color: skyblue;
+
+}
+
+#compText{
+
+color: rgb(175, 66, 66);
+}
+
+#result{
+
+    color: rgb(207, 195, 126);
+}
