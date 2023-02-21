@@ -140,3 +140,17 @@ display: flex;
 justify-content: space-evenly;
 
 }
+
+
+.score>h1{
+
+margin: 8px;
+padding: 0;
+}
+
+
+.score{
+    display:flex;
+    flex-direction: column;
+
+}
